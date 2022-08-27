@@ -1,0 +1,53 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+content{
+    margin: 0 auto;
+    display: inline;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 1pt;
+}
+table{
+    text-align: center;
+    margin-top: 5pt;
+    display: inline;
+}
+td{
+    border: 1pt solid black;
+    border-radius: 3px;
+    padding: 2pt;
+}
+#jdl_tags{
+    text-align: center;
+    font-weight: bold;
+    padding: 0pt;
+    margin: 0pt;
+    font-size: 30pt;
+    border: none;
+}
+#jdl_kolom{
+    height: 30pt;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(15, 181, 237);
+}
+#no{
+    min-width: 45pt;
+    font-size: larger;
+    font-weight: bold;
+}
+#tags{
+    min-width: 80pt;
+    font-size: 20pt;
+    font-weight: bold;
+    color: orange;
+}
+#hasil{
+    text-align: left;
+}
+#last{
+    border: none;
+    height: 2pt;
+}
