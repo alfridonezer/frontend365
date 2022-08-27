@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+table{
+    position: relative;
+    font-size: 10t;
+    text-align: center;
+}
+td{
+    width: 20pt;
+    padding: 10pt;
+}
+.tombol{
+    border-color: black;
+    padding: 10pt;
+    background-color: orange;
+}
+#input{
+    border: 1px;
+    background-color: red;
+}
